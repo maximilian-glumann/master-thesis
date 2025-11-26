@@ -1,6 +1,6 @@
 [submodule "AlexanderOrtlieb/github/Master-thesis"]
-    path =  AlexanderOrtlieb/github/Master-thesis
-    url = https://github.com/Turadon/Master-thesis.git
+	path = AlexanderOrtlieb/github/Master-thesis
+	url = https://github.com/Turadon/Master-thesis.git
 [submodule "AlexanderOrtlieb/gitlab/lungsegmentationlowres"]
-    path = AlexanderOrtlieb/gitlab/lungsegmentationlowres
-    url = https://gitlab.uni-ulm.de/xrad/lungsegmentationlowres.git
+	path = AlexanderOrtlieb/gitlab/lungsegmentationlowres
+	url = https://gitlab.uni-ulm.de/xrad/lungsegmentationlowres.git
